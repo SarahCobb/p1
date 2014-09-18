@@ -1,6 +1,6 @@
 #Project 1: Dynamic Web Apps  
 ## Live URL  
-[http://p1.sarahecobb.com](http://pw.sarahecobb.com)  
+[http://p1.sarahecobb.com](http://p1.sarahecobb.com)  
 ## Description  
 A simple page displaying information about myself and a headshot photo. Aso includes placeholder links for future projects.  
 ## Demo  
