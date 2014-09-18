@@ -15,7 +15,7 @@ h1 {
 	font-weight: bold;
 	padding-bottom: 12px;
 	text-align: center;
-	font-family: Arial, sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 h2 {
@@ -23,7 +23,7 @@ h2 {
 	font-size:22px;
 	padding-bottom: 10px;
 	text-align: center;
-	font-family: Arial, sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 h3 {
@@ -31,7 +31,7 @@ h3 {
 	font-size: 18px;
 	padding-bottom: 8px;
 	text-align: center;
-	font-family: Arial, sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 	font-size: 14px;
 	padding: 4px;
 	text-align: center;
-	font-family: Arial, sans-serif;
+	font-family: 'Cabin', sans-serif;
 }
 
 img {
