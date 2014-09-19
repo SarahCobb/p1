@@ -6,7 +6,7 @@ A simple page displaying information about myself and a headshot photo. Aso incl
 ## Demo  
 No demo requirement for this project.
 ## TA Instructions  
-N/A - for this project.
+Implemented Bootstrap -- Click through the project URL tabs and the titles under 'About Me' to see all content. Elements scale down responsively on smaller screens (mobile, tablet); make sure to adjust browser size to see these effects.
 ##External Resources
 Google Fonts: [http://www.google.com/fonts/specimen/Cabin](http://www.google.com/fonts/specimen/Cabin)
 Bootstrap: [http://getbootstrap.com/getting-started](http://getbootstrap.com/getting-started)
