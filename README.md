@@ -8,4 +8,6 @@ No demo requirement for this project.
 ## TA Instructions  
 N/A - for this project.
 ##External Resources
-Google Fonts: http://www.google.com/fonts/specimen/Cabin
+Google Fonts: [http://www.google.com/fonts/specimen/Cabin](http://www.google.com/fonts/specimen/Cabin)
+Bootstrap: [http://getbootstrap.com/getting-started](http://getbootstrap.com/getting-started)
+Bootstrap Tutorial: [http://www.tutorialrepublic.com/twitter-bootstrap-tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial)
